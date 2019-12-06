@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>238455307451-6npp2cc7n5vnek1kildchneod4f9piku.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.238455307451-6npp2cc7n5vnek1kildchneod4f9piku</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAo68OInprvFnXdDySDK6NQwpa-7UnMWoY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>238455307451</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kr.inswag.TalkApp</string>
+	<key>PROJECT_ID</key>
+	<string>howltalk-e7c9b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>howltalk-e7c9b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:238455307451:ios:0c576a1bbb4c2eb2a4bd9e</string>
+	<key>DATABASE_URL</key>
+	<string>https://howltalk-e7c9b.firebaseio.com</string>
+</dict>
+</plist>
